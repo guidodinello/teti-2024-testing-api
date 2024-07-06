@@ -1,0 +1,11 @@
+base58==2.1.1
+certifi==2024.6.2
+charset-normalizer==3.3.2
+fixedint==0.2.0
+idna==3.7
+iroha @ file:///home/guido/Desktop/fac/2024/1sem/TETI/iroha2-sdks/iroha-python/target/wheels/iroha-0.1.0-cp312-cp312-manylinux_2_34_x86_64.whl#sha256=4dbbfd70102ee284eaebf67a7bc2be3caee0a23f5854f95ecfd680233a965792
+more-itertools==10.3.0
+requests==2.32.3
+scalecodec==1.2.10
+urllib3==2.2.2
+websockets==12.0
